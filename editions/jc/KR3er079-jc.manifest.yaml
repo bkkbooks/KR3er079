@@ -1,0 +1,472 @@
+canonical_identifier: bkk:krp/KR3er079/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3er079/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 刪補頤生微論
+  identifiers:
+    krp: KR3er079
+  tags:
+    kr-categories: KR3er
+    tls-dates: dat04250
+  source:
+    repository: tls-texts
+    path: data/tls/KR3er079.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3er079_000-jc.yaml, hash: 'sha256:296809a6f992163d82ad361ef1520221fd7e0b9b771212cfd0f4e676c474596d'}
+  - {seq: 1, filename: KR3er079_001-jc.yaml, hash: 'sha256:7ee2f8e7a0598bcc5fd5765c8d5da62fe2a81808ad767926379cba03b451cfa8'}
+  - {seq: 2, filename: KR3er079_002-jc.yaml, hash: 'sha256:7ca87432e821657958c6e97d8dc412a4b2c8a1b8feb8060da77a12e0e0e81d76'}
+  - {seq: 3, filename: KR3er079_003-jc.yaml, hash: 'sha256:129d083696683b7d2e3a6a842f041eae3feef3217ccd86fbe8bb9842f1cf79d9'}
+  - {seq: 4, filename: KR3er079_004-jc.yaml, hash: 'sha256:560358bea07321af64beeb7bba9a2ec50462835b78c6b1ffa8c794b2a75d0eb5'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3er079_000-jc.markers.yaml, hash: 'sha256:a8935065df4eb87e9cacd0f272fa8de6bc81f90e471f1c0e928df474e186541d'}
+  - {seq: 1, role: markers, filename: assets/KR3er079_001-jc.markers.yaml, hash: 'sha256:00512366f12bfddf96393ffedfd7670c782982e25d67d73dd221f4e019f7bc66'}
+  - {seq: 2, role: markers, filename: assets/KR3er079_002-jc.markers.yaml, hash: 'sha256:4835cc20dcb87e9efd9f881811a5b2fd4a69fa42ce0d46b06a5ef31118c790f8'}
+  - {seq: 3, role: markers, filename: assets/KR3er079_003-jc.markers.yaml, hash: 'sha256:5938300d46a96088f7b3e3c33e2aa6fa4dc18f9ecf4780f7b3b1b59bb3a61f06'}
+  - {seq: 4, role: markers, filename: assets/KR3er079_004-jc.markers.yaml, hash: 'sha256:9c1cf442f22a2703bb0394d73ede4a9bd392710f75303856949d21e54913d1b9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3er079_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 475
+  label: 程序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er079_jc_000-d3.h1s1
+    span:
+    - front
+    - 475
+    - 1077
+  label: 項序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3er079_jc_000-d4.h1s1
+    span:
+    - front
+    - 1077
+    - 1554
+  label: 自序
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 17437
+  label: 卷之一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d2
+    span:
+    - body
+    - 3
+    - 3424
+  label: 三奇論第一
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d3
+    span:
+    - body
+    - 3424
+    - 5322
+  label: 醫宗論第二
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d4
+    span:
+    - body
+    - 5322
+    - 6808
+  label: 先天根本論第三
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d5
+    span:
+    - body
+    - 6808
+    - 8718
+  label: 後天根本論第四
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d6
+    span:
+    - body
+    - 8718
+    - 10117
+  label: 辨妄論第五
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d7
+    span:
+    - body
+    - 10117
+    - 12044
+  label: 審象論第六
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d8
+    span:
+    - body
+    - 12044
+    - 14602
+  label: 宣藥論第七附七方十劑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3er079_jc_001-d5d9
+    span:
+    - body
+    - 14602
+    - 17437
+  label: 運氣論第八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 20253
+  label: 卷之二
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d2
+    span:
+    - body
+    - 3
+    - 7383
+  label: 臟腑論第九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d3
+    span:
+    - body
+    - 7383
+    - 8754
+  label: 別症論第十
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d4
+    span:
+    - body
+    - 8754
+    - 11522
+  label: 四要論第十一
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d5
+    span:
+    - body
+    - 11522
+    - 12083
+  label: 化源論第十二
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d6
+    span:
+    - body
+    - 12083
+    - 13127
+  label: 知機論第十三
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d7
+    span:
+    - body
+    - 13127
+    - 14056
+  label: 明治論第十四
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d8
+    span:
+    - body
+    - 14056
+    - 14885
+  label: 風土論第十五
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d9
+    span:
+    - body
+    - 14885
+    - 15978
+  label: 虛勞論第十六
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d10
+    span:
+    - body
+    - 15978
+    - 16582
+  label: 邪祟論第十七
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d11
+    span:
+    - body
+    - 16582
+    - 18345
+  label: 傷寒論第十八
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d12
+    span:
+    - body
+    - 18345
+    - 19700
+  label: 廣嗣論第十九
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3er079_jc_002-d6d13
+    span:
+    - body
+    - 19700
+    - 20253
+  label: 婦科論第二十
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 22219
+  label: 卷之三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7d2
+    span:
+    - body
+    - 3
+    - 22219
+  label: 藥性論第二十一
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d4
+    span:
+    - body
+    - 189
+    - 11019
+  label: 草部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d5
+    span:
+    - body
+    - 11019
+    - 14775
+  label: 木部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d6
+    span:
+    - body
+    - 14775
+    - 16741
+  label: 果部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d7
+    span:
+    - body
+    - 16741
+    - 17439
+  label: 谷部六種
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d8
+    span:
+    - body
+    - 17439
+    - 18352
+  label: 菜部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d9
+    span:
+    - body
+    - 18352
+    - 19066
+  label: 人部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d10
+    span:
+    - body
+    - 19066
+    - 20664
+  label: 獸部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d11
+    span:
+    - body
+    - 20664
+    - 21282
+  label: 蟲魚部
+  type: section
+  level: 3
+- ref:
+    seq: 3
+    marker_id: KR3er079_jc_003-d7.d2d12
+    span:
+    - body
+    - 21282
+    - 22219
+  label: 石部
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 28378
+  label: 卷之四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8d2
+    span:
+    - body
+    - 3
+    - 22986
+  label: 醫方論第二十二
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8.d2d4
+    span:
+    - body
+    - 267
+    - 4847
+  label: 丸方十八首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8.d2d5
+    span:
+    - body
+    - 4847
+    - 19287
+  label: 煎方六十三首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8.d2d6
+    span:
+    - body
+    - 19287
+    - 21409
+  label: 散方十二首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8.d2d7
+    span:
+    - body
+    - 21409
+    - 22986
+  label: 膏方六首
+  type: section
+  level: 3
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8d3
+    span:
+    - body
+    - 22986
+    - 27113
+  label: 醫案論第二十三
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3er079_jc_004-d8d4
+    span:
+    - body
+    - 27113
+    - 28378
+  label: 感應論第二十四
+  type: section
+  level: 2
+hash: sha256:83f23b57ef50ac92c84e2092da2b0190c648345bc00fd60996f83b3c40f6cf60
