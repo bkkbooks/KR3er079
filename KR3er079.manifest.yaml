@@ -17,13 +17,13 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3er079_000.yaml, hash: 'sha256:6465b8dd1abac41f6e49532816608b682c61df8a8ce9df21bbc4bd276ba9a83d'}
+  - {seq: 0, filename: KR3er079_000.yaml, hash: 'sha256:718d7d381ae8352392732196ae234c4cd54e3b900aaabd6768743bc319c95da7'}
   - {seq: 1, filename: KR3er079_001.yaml, hash: 'sha256:24db252083938fab8df3753c70d894aed0ba6b1e8c317ad3ccf12a9769b5c5ec'}
   - {seq: 2, filename: KR3er079_002.yaml, hash: 'sha256:e3cd59460b9f8b6d35dde828adecc638ef9f3d614b5ef549092f8adeb9d1fc75'}
   - {seq: 3, filename: KR3er079_003.yaml, hash: 'sha256:cafcd66c07317926b3faf4a5ae573545e49a4d5d47fbb4c95fbed6263fd0fd4d'}
   - {seq: 4, filename: KR3er079_004.yaml, hash: 'sha256:2be23a72aba6d3fc0ffcb7163b07dd890766e39a73b81b797b6c241e5b51d75f'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3er079_000.markers.yaml, hash: 'sha256:f7a1a1ba26d33d9ea4705b1969d77ffb0403fc88f88b2bbf1904b009e05ceaad'}
+  - {seq: 0, role: markers, filename: assets/KR3er079_000.markers.yaml, hash: 'sha256:34c7aa0b37b4dbadd5bb9e2cdbbef16073a33a6fede1e7f3bd091f9a25042800'}
   - {seq: 1, role: markers, filename: assets/KR3er079_001.markers.yaml, hash: 'sha256:d3005afe89280828e334c9af20764157f94717a18157c1c288e962ae270f9385'}
   - {seq: 2, role: markers, filename: assets/KR3er079_002.markers.yaml, hash: 'sha256:de047c08d08b460c30d03345bcf2e3ab80efbc6022edf59dc1c4188347da4e03'}
   - {seq: 3, role: markers, filename: assets/KR3er079_003.markers.yaml, hash: 'sha256:a30834eeb7ca7fa5c0b96c7d0fe7119e209535be8dca39a587cfe738b803869c'}
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er079_jc_000-d2.h1s1
     span:
-    - front
+    - body
     - 0
     - 475
   label: 程序
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er079_jc_000-d3.h1s1
     span:
-    - front
+    - body
     - 475
     - 1077
   label: 項序
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR3er079_jc_000-d4.h1s1
     span:
-    - front
+    - body
     - 1077
     - 1554
   label: 自序
@@ -469,7 +469,7 @@ table_of_contents:
   label: 感應論第二十四
   type: section
   level: 2
-hash: sha256:a9bf8e3f4a85ac44c18ec7fd73837d369a47f2ba8f794b863668555cd12403a1
+hash: sha256:8a3a8e0c27fa9074d45c91628da2a6cc56e0d49f0cc5d6fcf296ea521edec956
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
